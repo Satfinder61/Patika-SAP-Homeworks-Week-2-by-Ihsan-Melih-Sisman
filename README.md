@@ -24,7 +24,7 @@
 <br>        and have little to do with the stars.
 <br>        Note: When calculating the Chinese zodiac, it is based on the remainder of the 12th division of the person's birth year.
 
-#Leap Year Calculator By Ihsan Melih Sisman
+# Leap Year Calculator By Ihsan Melih Sisman
 
 <br>     Write a program that finds whether the year the user entered is a leap year in Java.
 <br>     What is a leap year?
