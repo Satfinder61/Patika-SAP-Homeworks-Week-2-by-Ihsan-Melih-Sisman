@@ -18,12 +18,14 @@
   <br>      If the person has chosen the "Journey Type" round trip, 20% discount is applied on the ticket price.
 
 # Chinese Zodiac Calculator By Ihsan Melih Sisman
+
 <br> Chinese astrology is a type of astrology that has been used for 4000 thousand years and describes people with 12
 <br>        different signs and symbols. The Chinese Zodiac is an animal ring in which these 12 signs are evenly spaced (10 degrees wide)
 <br>        and have little to do with the stars.
 <br>        Note: When calculating the Chinese zodiac, it is based on the remainder of the 12th division of the person's birth year.
 
 #Leap Year Calculator By Ihsan Melih Sisman
+
 <br>     Write a program that finds whether the year the user entered is a leap year in Java.
 <br>     What is a leap year?
  <br>    A leap year is a year with 366 days instead of 365 in the Gregorian calendar.
